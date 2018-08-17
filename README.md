@@ -1,4 +1,4 @@
-# Projeto-5-semestre
+# Prática Profissional em Análise e Desenvolvimento de Sistemas
 
 Turma 05K - 2º semestre de 2018
 
