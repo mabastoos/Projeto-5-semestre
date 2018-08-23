@@ -3,4 +3,8 @@
 Turma 05K - 2º semestre de 2018
 
 Integrantes: 
-Marcella Bastos - 41602870
+Marcella Bastos
+Eric Alves 
+Guilherme Tobias
+Vitor Figueiredo 
+Guilherme Elias 
