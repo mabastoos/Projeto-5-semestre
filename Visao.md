@@ -13,7 +13,7 @@ trazendo dados para realiuzação mais simples da area de markenting.
 O aplicativo será personalizado de acordo com a marca, o perfil e a indentidade do restaurante.
 
 Como as pessoas/empresas vão usar este software?
-Atraves de um smartphone que suporte o app.
+Devices mobiles que suporte o app.
 
 Quais linguagens/tecnologias serão utilizadas para implementar este software?
 Angular, React, banco de dados oracle, sql 
